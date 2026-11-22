@@ -15,6 +15,11 @@ refs=load_references()
 a,b,c=st.columns(3)
 a.metric('Downloaded reference proteins',len(refs))
 b.metric('Classes represented',len({r['class'] for r in refs}))
+from pathlib import Path
+import subprocess, sys
+
+if not Path("database/motifs.json").exists():
+    subprocess.run([sys.executable, "build_database.py"], check=True)
 c.metric('Motif patterns',sum(len(x['patterns']) for x in load_motifs().values()))
 if not refs:
     st.error('Reference FASTA files are not yet downloaded. Open Command Prompt in this folder and run: python build_database.py. Motif analysis is available meanwhile.')
