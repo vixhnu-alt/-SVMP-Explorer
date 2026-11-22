@@ -52,6 +52,7 @@ def main():
                 if m and m.group()!=ref['class']:
                     raise ValueError(f'UniProt class conflict: {m.group()} vs {ref["class"]}')
             status = e.get('entryType','')
+            # Keep candidate status transparent; no synthetic C-domain boundaries.
             downloaded.append({**ref,'name':name,'species':org,'sequence':seq,
                                'length':len(seq),'review_status':status,'features':extract_domain_features(e),
                                'uniprot_url':f'https://www.uniprot.org/uniprotkb/{acc}',
