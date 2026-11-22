@@ -1,0 +1,5 @@
+{
+  "zinc_binding": {"domain":"M", "kind":"regex", "patterns":["HE..H..G..H", "HE..H..G..HD"], "note":"Catalytic motif; second pattern overlaps first. Not SVMP-specific; inactive variants may lack it.", "references":["Olaoba2020","KiniKoh2016"]},
+  "disintegrin_binding": {"domain":"D", "kind":"literal", "patterns":["RGD","KGD","VGD","WGD","MGD","MLD","MVD","KTS","RTS"], "note":"Integrin-recognition motifs also occur in processed disintegrins and unrelated proteins; not proof of a P-II domain.", "references":["Olaoba2020","Calvete2005","Disintegrin2011","Disintegrin2018"]},
+  "disintegrin_like": {"domain":"D_like", "kind":"literal", "patterns":["SECD","TECD","DECD","ECD","DDCD"], "note":"Reported ECD-associated and DDCD variants. Short patterns are supporting evidence only; some patterns overlap.", "references":["Olaoba2020","Cloning2010","KiniKoh2016"]}
+}

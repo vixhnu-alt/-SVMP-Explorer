@@ -1,0 +1,1949 @@
+[
+  {
+    "accession": "Q9IAY0",
+    "class": "P-I",
+    "source": "Deinagkistrodon2025",
+    "note": "Reported P-I dataset; verify UniProt family annotation on download",
+    "name": "Snake venom metalloproteinase H3",
+    "species": "Deinagkistrodon acutus",
+    "sequence": "FPYQGSSIILESGNVNDYEVVYPRKVTALPKGAVQQKYEDAMQYEFKVNGEPVVLHLEKNKGLFSKDYSEIHYSPDGRRITTHPLVEDHCYYRGHIRNDADSTASISACNGLKGHFKLRGETYLIEPMKISNSEAHAVYKYENVEKEDEAHKMCGVTQNWESYEPIKKASQLIVSTEFQKYMEIVIVVDHSMYTKHKGDSDKIKAWVYEMINTISESYRYLYIDIIVSALEMWSEKDLINVETSAENTLKSFGEWRAKDLIHRISHDNAQLLTATDFDGPTIGLAYVASMCDPKRSVGVVQDHSSVNHLVAITLAHEIAHNLGVHHDKSSCSCGSGYTCIMSPVINSEVIKYFSDCSYIQCREYISKENPPCILNKPLRTDTVSTPVSGNELLEAGKDYD",
+    "length": 400,
+    "review_status": "UniProtKB reviewed (Swiss-Prot)",
+    "features": [
+      {
+        "type": "Propeptide",
+        "description": "",
+        "start": 7,
+        "end": 176,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Chain",
+        "description": "Snake venom metalloproteinase H3",
+        "start": 177,
+        "end": 377,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Propeptide",
+        "description": "",
+        "start": 378,
+        "end": 400,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Peptidase M12B",
+        "start": 180,
+        "end": 377,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Active site",
+        "description": "",
+        "start": 317,
+        "end": 317,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 183,
+        "end": 183,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 267,
+        "end": 267,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 316,
+        "end": 316,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 320,
+        "end": 320,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 326,
+        "end": 326,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 372,
+        "end": 372,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 375,
+        "end": 375,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 387,
+        "end": 387,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 390,
+        "end": 390,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 392,
+        "end": 392,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 394,
+        "end": 394,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 400,
+        "end": 400,
+        "evidence": "UniProt entry annotation"
+      }
+    ],
+    "uniprot_url": "https://www.uniprot.org/uniprotkb/Q9IAY0",
+    "family_annotation": "Belongs to the venom metalloproteinase (M12B) family. P-I subfamily"
+  },
+  {
+    "accession": "Q9IAY1",
+    "class": "P-I",
+    "source": "Deinagkistrodon2025",
+    "note": "Reported P-I dataset; verify UniProt family annotation on download",
+    "name": "Snake venom metalloproteinase H2",
+    "species": "Deinagkistrodon acutus",
+    "sequence": "FPYQGSSTILESGNVNDYEVVYPRKVTALPKGAVQQKYEDAMQYEFKVNGEPVVLHLEKNKGLFSKDYSEIHYSPDGRRITTHPLVEDHCYYRGHIRNDADSTASISACNGLKGHFKLRGETYLIEPMKISNSEAHAVYKYENVEKEDEAHKMCGVTQNWESYEPIKKASQLIVSTEFQRYMEIVIVVDHSMYTKYKGDSDKIKAWVYEMINTISESYRYLYIDIIVSALEMWSEKDLINVETSAENTLKSFGEWRAKDLIHRISHDNAQLLTATDFDGPTIGLAYVASMCDPKRSVGVVQDHSSVNHLVAITLAHEIAHNLGVHHDKSSCSCGSGYTCIMSPVINSEVIKYFSDCSYIQCREYISKENPPCILNKPLRTDTVSTPVSGNELLEAGKDYD",
+    "length": 400,
+    "review_status": "UniProtKB reviewed (Swiss-Prot)",
+    "features": [
+      {
+        "type": "Propeptide",
+        "description": "",
+        "start": 7,
+        "end": 176,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Chain",
+        "description": "Snake venom metalloproteinase H2",
+        "start": 177,
+        "end": 377,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Propeptide",
+        "description": "",
+        "start": 378,
+        "end": 400,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Peptidase M12B",
+        "start": 180,
+        "end": 377,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Active site",
+        "description": "",
+        "start": 317,
+        "end": 317,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 183,
+        "end": 183,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 267,
+        "end": 267,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 316,
+        "end": 316,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 320,
+        "end": 320,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 326,
+        "end": 326,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 372,
+        "end": 372,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 375,
+        "end": 375,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 387,
+        "end": 387,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 390,
+        "end": 390,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 392,
+        "end": 392,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 394,
+        "end": 394,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 400,
+        "end": 400,
+        "evidence": "UniProt entry annotation"
+      }
+    ],
+    "uniprot_url": "https://www.uniprot.org/uniprotkb/Q9IAY1",
+    "family_annotation": "Belongs to the venom metalloproteinase (M12B) family. P-I subfamily"
+  },
+  {
+    "accession": "Q9IAY2",
+    "class": "P-I",
+    "source": "Deinagkistrodon2025",
+    "note": "Reported P-I dataset; verify UniProt family annotation on download",
+    "name": "Snake venom metalloproteinase H5",
+    "species": "Deinagkistrodon acutus",
+    "sequence": "FPYQGSSIMLESGKVNDYEVVYPQRLAPLPEGAVQQKYEDTMQYEFKVNGETIGLHMEKSKGLFSKDYSETHYSPDGRKITTYPSVEDHCYYHGRIENYEDSTASISACNGLKGHFKIQGETYFIESLKLSDSEAHAVFKYENVEKEDETHKMCGVTQNWKSYDPIKKPSWVNLTPKQQTWPQTSVNLQLVVDRSMYAKYNSDSEKITQTLQERVNIMKEIFKPLNLDITLSVIEMWDKKDLITVKTAATDTLKLFPKWRQTDLLKRIDNDNAQLQTAVDFDGETVGLAFKGTMCDKRYSAGIIQDHSAIPLLMAVTMAHELGHNLGMDHDDTYKCNCNVCIMPPRLNTNPSKTFSDCSNNDYQKFLTDKKPKCIHKKSLKTDTVSTSVSGNEPLDDNVDGFHA",
+    "length": 404,
+    "review_status": "UniProtKB reviewed (Swiss-Prot)",
+    "features": [
+      {
+        "type": "Propeptide",
+        "description": "",
+        "start": 7,
+        "end": 177,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Chain",
+        "description": "Snake venom metalloproteinase H5",
+        "start": 178,
+        "end": 378,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Propeptide",
+        "description": "",
+        "start": 379,
+        "end": 404,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Peptidase M12B",
+        "start": 184,
+        "end": 379,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Region",
+        "description": "Disordered",
+        "start": 385,
+        "end": 404,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Active site",
+        "description": "",
+        "start": 321,
+        "end": 321,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 320,
+        "end": 320,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 324,
+        "end": 324,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 330,
+        "end": 330,
+        "evidence": "UniProt entry annotation"
+      }
+    ],
+    "uniprot_url": "https://www.uniprot.org/uniprotkb/Q9IAY2",
+    "family_annotation": "Belongs to the venom metalloproteinase (M12B) family. P-I subfamily"
+  },
+  {
+    "accession": "Q9IAY3",
+    "class": "P-I",
+    "source": "Deinagkistrodon2025",
+    "note": "Reported P-I dataset; verify UniProt family annotation on download",
+    "name": "Snake venom metalloproteinase H1",
+    "species": "Deinagkistrodon acutus",
+    "sequence": "FPYQGSSIILESGNVNDYEVVYPRKVTALPKGAVQQKYEDAMQYEFKVNGEPVVLHLEKNKGLFSKDYSEIHYSPDGRRITTHPLVEDHCYYRGHIRNDADSTASISACNGLKGHFKLRGETYLIEPMKISNSEAHAVYKYENVEKEDEAHKMCGVTQNWESYEPIKKASQLIVSTEFQRYMEIVIVVDHSMYTKYKGDSDKIKAWVYEMINTISESYRYLYIDIIVSALEMWSEKDLINVETSAENTLKSFGEWRAKDLIHRISHDNAQLLTATDFDGPTIGLAYVASMCDPKRSVGVVQDHSSVNHLVAITLAHEIAHNLGVHHDEGSCSCGSGYTCIMSPVINSEVIKYFSDCSYIQCREYISKENPPCILNKPLRTDTVSTPVSGNELLEAGKDYD",
+    "length": 400,
+    "review_status": "UniProtKB reviewed (Swiss-Prot)",
+    "features": [
+      {
+        "type": "Propeptide",
+        "description": "",
+        "start": 7,
+        "end": 176,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Chain",
+        "description": "Snake venom metalloproteinase H1",
+        "start": 177,
+        "end": 377,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Propeptide",
+        "description": "",
+        "start": 378,
+        "end": 400,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Peptidase M12B",
+        "start": 180,
+        "end": 377,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Active site",
+        "description": "",
+        "start": 317,
+        "end": 317,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 183,
+        "end": 183,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 267,
+        "end": 267,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 316,
+        "end": 316,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 320,
+        "end": 320,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 326,
+        "end": 326,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 372,
+        "end": 372,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 375,
+        "end": 375,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 387,
+        "end": 387,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 390,
+        "end": 390,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 392,
+        "end": 392,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 394,
+        "end": 394,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 400,
+        "end": 400,
+        "evidence": "UniProt entry annotation"
+      }
+    ],
+    "uniprot_url": "https://www.uniprot.org/uniprotkb/Q9IAY3",
+    "family_annotation": "Belongs to the venom metalloproteinase (M12B) family. P-I subfamily"
+  },
+  {
+    "accession": "P20165",
+    "class": "P-I",
+    "source": "UniProt_P20165",
+    "note": "H2-proteinase; reviewed UniProt",
+    "name": "Snake venom metalloproteinase trimerelysin-2",
+    "species": "Protobothrops flavoviridis",
+    "sequence": "QRFPQRYIELAIVVDHGMYKKYNQNSDKIKVRVHQMVNHINEMYRPLNIAISLNRLQIWSKKDLITVKSASNVTLESFGNWRETVLLKQQNNDCAHLLTATNLNDNTIGLAYKKGMCNPKLSVGLVQDYSPNVFMVAVTMTHELGHNLGMEHDDKDKCKCEACIMSDVISDKPSKLFSDCSKNDYQTFLTKYNPQCILNAP",
+    "length": 201,
+    "review_status": "UniProtKB reviewed (Swiss-Prot)",
+    "features": [
+      {
+        "type": "Chain",
+        "description": "Snake venom metalloproteinase trimerelysin-2",
+        "start": 1,
+        "end": 201,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Peptidase M12B",
+        "start": 6,
+        "end": 201,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Active site",
+        "description": "",
+        "start": 143,
+        "end": 143,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 142,
+        "end": 142,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 146,
+        "end": 146,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 152,
+        "end": 152,
+        "evidence": "UniProt entry annotation"
+      }
+    ],
+    "uniprot_url": "https://www.uniprot.org/uniprotkb/P20165",
+    "family_annotation": "Belongs to the venom metalloproteinase (M12B) family. P-I subfamily"
+  },
+  {
+    "accession": "O57413",
+    "class": "P-II",
+    "source": "UniProt_O57413",
+    "note": "Metalloproteinase/disintegrin precursor; reviewed UniProt",
+    "name": "Zinc metalloproteinase/disintegrin",
+    "species": "Protobothrops mucrosquamatus",
+    "sequence": "MIEVLLVTICLAVFPYQGSSIILESGNVNDYEVVYPRKVSALPKGAVQPKYEDAMQYEFKVNGEAVVLHLEKNKGLFSEDYSETHYSPDGREITTYPSVEDHCYYHGRIHNDADSTASISACDGLKGYFKLQGETYPIEPLELSDSEAHAVFKYENVEKEDEAPKMCGVTQNWESDESIKKASQLYLTPEQQRFPQRYIKLAIVVDHGMYTKYSSNFKKIRKRVHQMVSNINEMCRPLNIAITLALLDVWSEKDFITVQADAPTTAGLFGDWRERVLLKKKNHDHAQLLTDTNFARNTIGWAYVGRMCDEKYSVAVVKDHSSKVFMVAVTMTHELGHNLGMEHDDKDKCKCDTCIMSAVISDKQSKLFSDCSKDYYQTFLTNDNPQCILNAPLRTDTVSTPVSGNEFLEAGEECDCGSPENPCCDAATCKLRPGAQCAEGLCCDQCRFKKKRTICRRARGDNPDDRCTGQSADCPRNGLYG",
+    "length": 481,
+    "review_status": "UniProtKB reviewed (Swiss-Prot)",
+    "features": [
+      {
+        "type": "Propeptide",
+        "description": "",
+        "start": 21,
+        "end": 189,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Chain",
+        "description": "Snake venom metalloproteinase TM-3",
+        "start": 190,
+        "end": 392,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Propeptide",
+        "description": "",
+        "start": 393,
+        "end": 410,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Chain",
+        "description": "Disintegrin trimucrin",
+        "start": 411,
+        "end": 481,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Peptidase M12B",
+        "start": 197,
+        "end": 392,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Disintegrin",
+        "start": 400,
+        "end": 481,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Motif",
+        "description": "Cell attachment site",
+        "start": 459,
+        "end": 461,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Active site",
+        "description": "",
+        "start": 334,
+        "end": 334,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 296,
+        "end": 299,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 333,
+        "end": 333,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 337,
+        "end": 337,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 343,
+        "end": 343,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 357,
+        "end": 357,
+        "evidence": "UniProt entry annotation"
+      }
+    ],
+    "uniprot_url": "https://www.uniprot.org/uniprotkb/O57413",
+    "family_annotation": "Belongs to the venom metalloproteinase (M12B) family. P-II subfamily. P-IIa sub-subfamily"
+  },
+  {
+    "accession": "P17349",
+    "class": "P-II",
+    "source": "UniProt_P17349",
+    "note": "Metalloproteinase/disintegrin precursor; reviewed UniProt",
+    "name": "Zinc metalloproteinase/disintegrin",
+    "species": "Protobothrops elegans",
+    "sequence": "MIQVLLVTICLAVFPYQGSSIILESGNVDDYEVVYPRKVTALPKGAVQPKYEDAMQYEFKVNGEAVVLHLEKNKGLFSEDYSETHYSPDGREITTYPSVEDHCYYHGRIHNDADSTASISACDGLKGYFKLQGETYLIEPLELSDSEAHAVFKYENVEKEDEAPKMCGVTQNWESDESIKKASQLYLTPEQQRFPQRYIKLAIVVDHGMYTKYSSNFKKIRKRVHQMVSNINEMCRPLNIAITLALLDVWSEKDFITVQADAPTTAGLFGDWRERVLLKKKNHDHAQLLTDTNFARNTIGWAYLGRMCDEKYSVGVVQDHSSKVFMVAVTMTHELGHNLGMEHDDKDKCKCEACIMSAVISDKQSKLFSDCSKDYYQTFLTNDNPQCILNAPLRTDTVSTPVSGNEFLEAGEECDCGSPENPCCDAATCKLRPGAQCADGLCCDQCRFKKKRTICRRARGDNPDDRCTGQSADCPRNGLYS",
+    "length": 481,
+    "review_status": "UniProtKB reviewed (Swiss-Prot)",
+    "features": [
+      {
+        "type": "Propeptide",
+        "description": "",
+        "start": 21,
+        "end": 190,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Chain",
+        "description": "Snake venom metalloproteinase",
+        "start": 191,
+        "end": 392,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Propeptide",
+        "description": "",
+        "start": 393,
+        "end": 408,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Chain",
+        "description": "Disintegrin elegantin-1a",
+        "start": 409,
+        "end": 481,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Chain",
+        "description": "Disintegrin elegantin-1b",
+        "start": 411,
+        "end": 481,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Chain",
+        "description": "Disintegrin elegantin-1c",
+        "start": 411,
+        "end": 480,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Peptidase M12B",
+        "start": 197,
+        "end": 392,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Disintegrin",
+        "start": 400,
+        "end": 481,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Motif",
+        "description": "Cell attachment site",
+        "start": 459,
+        "end": 461,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Active site",
+        "description": "",
+        "start": 334,
+        "end": 334,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 333,
+        "end": 333,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 337,
+        "end": 337,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 343,
+        "end": 343,
+        "evidence": "UniProt entry annotation"
+      }
+    ],
+    "uniprot_url": "https://www.uniprot.org/uniprotkb/P17349",
+    "family_annotation": "Belongs to the venom metalloproteinase (M12B) family. P-II subfamily. P-IIa sub-subfamily"
+  },
+  {
+    "accession": "Q7ZZS9",
+    "class": "P-II",
+    "source": "UniProt_Q7ZZS9",
+    "note": "Metalloproteinase/disintegrin precursor; reviewed UniProt",
+    "name": "Zinc metalloproteinase/disintegrin",
+    "species": "Protobothrops jerdonii",
+    "sequence": "MIQVLLVTICLAVFPYQGSSIILESGNVDDYEVVYPQKVTALPKGAVQPKYEDAMQYEFKVNGEPVVLHLEKNKGLFSEDYSETHYSPDGREITTYPSVEDHCYHHGRVHNDADSTASISACDGLKGHFKLQGEMYLIEPLELSDSEAHAVFKYENVEKEDEAPKMCGVTQNWESDESIKKASQLYLTPEQQRFPQRHIELAIVVDHGMYTKYSSNFKKIRKRVHQMVSNINEMCRPLNIAITLSLLDVWSEKDLITVQADAPTTAGLFGDWRERVLLKKKNHDHAQLLTDINFTGDTIGWAYVGGMCNAKYSVGTVKDHSSNVFVVAVTMTHEIGHNLGMEHDDKDKCKCEACIMAPVISDKQSKLFSDCSKDYYQTFLTNKKPQCILNAPLRTDTVSTPISGNEFLEAGEECDCGSPSNPCCDVGTCKLSPGAQCADGLCCDQCRFKKKGKICRRARGDNPDDRCTGQSADCPRNGLYG",
+    "length": 481,
+    "review_status": "UniProtKB reviewed (Swiss-Prot)",
+    "features": [
+      {
+        "type": "Propeptide",
+        "description": "",
+        "start": 21,
+        "end": 190,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Chain",
+        "description": "Snake venom metalloproteinase TJM-1",
+        "start": 191,
+        "end": 392,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Propeptide",
+        "description": "",
+        "start": 393,
+        "end": 410,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Chain",
+        "description": "Disintegrin jerdonin",
+        "start": 411,
+        "end": 481,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Peptidase M12B",
+        "start": 197,
+        "end": 392,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Disintegrin",
+        "start": 400,
+        "end": 481,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Motif",
+        "description": "Cell attachment site",
+        "start": 459,
+        "end": 461,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Active site",
+        "description": "",
+        "start": 334,
+        "end": 334,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 200,
+        "end": 200,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 284,
+        "end": 284,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 333,
+        "end": 333,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 337,
+        "end": 337,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 343,
+        "end": 343,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 387,
+        "end": 387,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 390,
+        "end": 390,
+        "evidence": "UniProt entry annotation"
+      }
+    ],
+    "uniprot_url": "https://www.uniprot.org/uniprotkb/Q7ZZS9",
+    "family_annotation": "Belongs to the venom metalloproteinase (M12B) family. P-II subfamily. P-IIa sub-subfamily"
+  },
+  {
+    "accession": "J9Z332",
+    "class": "P-II",
+    "source": "UniProt_J9Z332",
+    "note": "Metalloproteinase/disintegrin; verify entry annotations",
+    "name": "Zinc metalloproteinase-disintegrin VMP-II",
+    "species": "Crotalus adamanteus",
+    "sequence": "MIQVLLVTICLAVFPYQGSSIILESGNVNDYEVVYPRKVTALPKGAVQLKYEDAMQYEFKVNGEPVVLHLEKNKGLFSEDYSETHYSPDGREITTYPPVEDHCYYHGRIQNDADSTASISACNGLKGHFKLQGEMYLIEPLKLSDSEAHAVYKYENVEKEDEASKMCGVTETNWESYEPIKKASQSNIPPEEEAFYQRYIELVVVADHRMYTKYDGDKTEISSIIYEIVNTLTQIFRPLHIRVALIGLEIWSSGELSKVTLSADDTLEAFGEWRKTVLMNRKRHDNAQLLTGMIFNETIEGRTYKSGMCNPKHSVGIVRDYRTRRHFVANRMAHELGHNLGIDHDRDSCTCGANSCIMSATVSNEPSSQFSDCSLNKYLNYIVRYQSTTRCLHNEPSETDIVSPPFCGNYFKEVGEDCDCGPPANCQNPCCDAATCKLTTGSQCAEGLCCDQCKFTKKGTACRPARGDWNDDTCTGQSADCPRNGLYG",
+    "length": 488,
+    "review_status": "UniProtKB reviewed (Swiss-Prot)",
+    "features": [
+      {
+        "type": "Propeptide",
+        "description": "",
+        "start": 21,
+        "end": 191,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Chain",
+        "description": "Zinc metalloproteinase-disintegrin VMP-II",
+        "start": 192,
+        "end": 488,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Peptidase M12B",
+        "start": 198,
+        "end": 396,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Disintegrin",
+        "start": 404,
+        "end": 488,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Motif",
+        "description": "Cell attachment site",
+        "start": 466,
+        "end": 468,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Active site",
+        "description": "",
+        "start": 335,
+        "end": 335,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 201,
+        "end": 201,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 285,
+        "end": 285,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 334,
+        "end": 334,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 338,
+        "end": 338,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 344,
+        "end": 344,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 391,
+        "end": 391,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 394,
+        "end": 394,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 409,
+        "end": 409,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 413,
+        "end": 413,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 416,
+        "end": 416,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 419,
+        "end": 419,
+        "evidence": "UniProt entry annotation"
+      }
+    ],
+    "uniprot_url": "https://www.uniprot.org/uniprotkb/J9Z332",
+    "family_annotation": "Belongs to the venom metalloproteinase (M12B) family. P-II subfamily. P-IIb sub-subfamily"
+  },
+  {
+    "accession": "Q072L5",
+    "class": "P-II",
+    "source": "UniProt_Q072L5",
+    "note": "Metalloproteinase/disintegrin precursor; reviewed UniProt",
+    "name": "Zinc metalloproteinase/disintegrin",
+    "species": "Bothrops asper",
+    "sequence": "MIEVLLVTICLAVSPYQGSSIILESGNVNDYEVVYPRKVTELPKGAVQPKYEDAMQYEFKVNGEPVVLHLEKNKGLFSEDYSETHYSPDGRKIITYPSFEDHCYYHGRIENDADSTASISACNGLKGHFKIQGETYLIEPLKLSDSEAHAVYKYENVEKEDEAPKMCGVTETNWESYEPIKKASQSNLTPEQQRFSPRYIELAVVADHGIFTKYNSNLNTIRTRVHEMLNTVNGFYRSVNVTASLASLEVWSKKDLIKVEKDSSKTLTSFGEWRERDLLPRISHDHAQLLTTIVFDNYVIGITEFGKMCDPKLSVGVVRDHSEINLQVAVAMAHELGHNLGMYHDGNQCHCDAASCIMADTLREVLSYEFSDCSQNQYETYLTKHNPQCILNEPLLIVSGNELLEAGEECDCDAPENPCCDAATCKLRPGAQCAEGLCCDQCRFKGAGKICRRARGDNPDDRCTGQSADCPRNRFHA",
+    "length": 477,
+    "review_status": "UniProtKB reviewed (Swiss-Prot)",
+    "features": [
+      {
+        "type": "Propeptide",
+        "description": "",
+        "start": 21,
+        "end": 190,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Chain",
+        "description": "Snake venom metalloproteinase",
+        "start": 191,
+        "end": 394,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Propeptide",
+        "description": "",
+        "start": 395,
+        "end": 404,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Chain",
+        "description": "Disintegrin bothrasperin",
+        "start": 405,
+        "end": 477,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Peptidase M12B",
+        "start": 198,
+        "end": 394,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Disintegrin",
+        "start": 396,
+        "end": 477,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Motif",
+        "description": "Cell attachment site",
+        "start": 455,
+        "end": 457,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Active site",
+        "description": "",
+        "start": 335,
+        "end": 335,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 201,
+        "end": 201,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 285,
+        "end": 285,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 334,
+        "end": 334,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 338,
+        "end": 338,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 344,
+        "end": 344,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 389,
+        "end": 389,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 392,
+        "end": 392,
+        "evidence": "UniProt entry annotation"
+      }
+    ],
+    "uniprot_url": "https://www.uniprot.org/uniprotkb/Q072L5",
+    "family_annotation": "Belongs to the venom metalloproteinase (M12B) family. P-II subfamily. P-IId sub-subfamily"
+  },
+  {
+    "accession": "A0A0K2JNB8",
+    "class": "P-III",
+    "source": "UniProt_A0A0K2JNB8",
+    "note": "Batroxrhagin; reviewed UniProt",
+    "name": "Snake venom metalloproteinase batroxrhagin",
+    "species": "Bothrops atrox",
+    "sequence": "MIQVLLVTICLAAFPYQGSSIILESGNVNDYEVVYPRKVTALPKGAVQPKYEDAMQYEFKVNGEPVVLHLEKNKGLFSKDYSEIHYSPDGREITTYPPVEDHCYYHGRIKNDADSTASISACNGLKGYFKLQRETYFIEPLKLSNSEAHAVFKYENVEKEDEAPKMCGVTQNWKSYEPIKKASQLVVTAEQQKYNPFRYIEFLLVVDQGMVTKNNGDLDKIKARMYELANIVNEIFRYLYMHAALVGLEIWSNGDKITVKPDVDYTLNSFAEWRKTDLLTRKKHDNAQLLTAIDFNGPTIGYAYIGSMCHPKRSVAIVQDYSPINLVMAVIMAHEMGHNMGIHHDTGSCSCGDYPCIMGPTISNEPSKFFSNCSYIQCWDFIMNHNPECIINEPLGPDIVSPPVCGNELLEVGEECDCGTPENCQNECCDAATCKLKSGSQCGHGDCCEQCKFTKSGTECRASMSECDPAEHCTGQSSECPADVFHKNGQPCLDNYGYCYNGNCPIMYHQCYALFGADVYEAEDSCFKDNQKGNYYGYCRKENDKKIPCAPEDVKCGRLYCKDNSPGQNNPCKMFYSSDDEHKGMVLPGTKCADGKVCSNGHCVDVATAY",
+    "length": 610,
+    "review_status": "UniProtKB reviewed (Swiss-Prot)",
+    "features": [
+      {
+        "type": "Propeptide",
+        "description": "",
+        "start": 21,
+        "end": 189,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Chain",
+        "description": "Snake venom metalloproteinase batroxrhagin",
+        "start": 190,
+        "end": 610,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Peptidase M12B",
+        "start": 198,
+        "end": 394,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Disintegrin",
+        "start": 402,
+        "end": 488,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Motif",
+        "description": "D/ECD-tripeptide",
+        "start": 466,
+        "end": 468,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Active site",
+        "description": "",
+        "start": 335,
+        "end": 335,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 201,
+        "end": 201,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 285,
+        "end": 285,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 334,
+        "end": 334,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 338,
+        "end": 338,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 344,
+        "end": 344,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 389,
+        "end": 389,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 392,
+        "end": 392,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 404,
+        "end": 404,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 407,
+        "end": 407,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 409,
+        "end": 409,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 411,
+        "end": 411,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 414,
+        "end": 414,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 417,
+        "end": 417,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 468,
+        "end": 468,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 469,
+        "end": 469,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 471,
+        "end": 471,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 483,
+        "end": 483,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 484,
+        "end": 484,
+        "evidence": "UniProt entry annotation"
+      }
+    ],
+    "uniprot_url": "https://www.uniprot.org/uniprotkb/A0A0K2JNB8",
+    "family_annotation": "Belongs to the venom metalloproteinase (M12B) family. P-III subfamily. P-IIIa sub-subfamily"
+  },
+  {
+    "accession": "J3S830",
+    "class": "P-III",
+    "source": "UniProt_J3S830",
+    "note": "Metalloproteinase-disintegrin-like; verify entry annotations",
+    "name": "Zinc metalloproteinase-disintegrin-like 3a",
+    "species": "Crotalus adamanteus",
+    "sequence": "MIQVLLVTILAVFPYQGSSIILGSGNVNDYEVVYPRKVTALPKGAVQPKYEDAMQYELKVNGEPMVLHLEKNKQLFSKDYSETHYSPDGREITTYPLVEDHCYYHGRIENDADSTASISACNGLKGHFKLQGEIYLIEPLKLRDSEAHAVFKYENVEKEDEAPKMCGVTQNWESYEPIKKASQLVVTAEQQRYLNPYRYVELVIVADHGMFTKYNRNLTEVKTWVYEIVNTLNEIYRYLYIRVALVGLEIWSDGDLSNVTLSSGNTLDSFGEWRKRDLLRRKRHDNAQLLTAIDFSGNTIGRASIANMCDPKYSTGIVQDHSPINLLVAVTMAHEMGHNLGLHHDGKSCTCGDYICIMNATLSHQHSKYFSNCSYNQYWDYINTYTPKCILNEPLRTDIISPPVCGNELLEAGEECDCGSPRNCQYQCCDAATCKLHSWVECESGVCCEQCKFRTAGTECRARRSECDIAESCTGQSADCPTDDFHKNGQPCLNNFGYCYNGNCPIMYHQCYALFGSNVYEAEDSCFESNQKGDDYGYCRKENGEKIPCAPEDVKCGRLYCNDNSPGQNDPCKIFPSNEDEHKEMVLPGTKCADGKFCTNGHCVDVATAY",
+    "length": 610,
+    "review_status": "UniProtKB reviewed (Swiss-Prot)",
+    "features": [
+      {
+        "type": "Propeptide",
+        "description": "",
+        "start": 20,
+        "end": 188,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Chain",
+        "description": "Zinc metalloproteinase-disintegrin-like 3a",
+        "start": 189,
+        "end": 610,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Peptidase M12B",
+        "start": 198,
+        "end": 394,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Disintegrin",
+        "start": 402,
+        "end": 488,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Motif",
+        "description": "D/ECD-tripeptide",
+        "start": 466,
+        "end": 468,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Active site",
+        "description": "",
+        "start": 335,
+        "end": 335,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 201,
+        "end": 201,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 285,
+        "end": 285,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 334,
+        "end": 334,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 338,
+        "end": 338,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 344,
+        "end": 344,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 389,
+        "end": 389,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 392,
+        "end": 392,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 404,
+        "end": 404,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 407,
+        "end": 407,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 411,
+        "end": 411,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 414,
+        "end": 414,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 417,
+        "end": 417,
+        "evidence": "UniProt entry annotation"
+      }
+    ],
+    "uniprot_url": "https://www.uniprot.org/uniprotkb/J3S830",
+    "family_annotation": "Belongs to the venom metalloproteinase (M12B) family. P-III subfamily"
+  },
+  {
+    "accession": "D6PXE8",
+    "class": "P-III",
+    "source": "UniProt_D6PXE8",
+    "note": "Atrase-B; verify entry annotations",
+    "name": "Zinc metalloproteinase-disintegrin-like atrase-B",
+    "species": "Naja atra",
+    "sequence": "MIQALLVIICLAVFPHQGSSIILESGNVNDYEVVYPQKVPALLKGGVQNPQPETKYEDTMRYEFQVNGEPVVLHLERNKGLFSEDYTETHYAPDGREITTSPPVQDHCYYHGYIQNEADSSAVISACDGLKGHFEHQGETYFIEPLKISNSEAHAIYKDENVENEDETPEICGVTETTWESDESIEKTSQLTNTPEQDRYLQDKKYIEFYVIVDNRMYRYYNNDKPAIKIRVYEMINAVNTKFRPLKIHIALIGLEIWSNKDKFEVKPAASVTLKSFGEWRETVLLPRKRNDNAQLLTGIDFNGNTVGRAYIGSLCKTNESVAIVQDYNRRISLVASTMTHELGHNLGIHHDKASCICIPGPCIMLKKRTAPAFQFSSCSIREYREYLLRDRPQCILNKPLSTDIVSPPICGNYFVEVGEECDCGSPQACQSACCNAATCQFKGAETECRVAKDDCDLPELCTGQSAECPTDSLQRNGHPCQNNQGYCYNRTCPTLTNQCITLLGPHFTVSPKGCFDLNMRGDDGSFCGMEDGTKIPCAAKDVKCGRLYCTEKNTMSCLIPPNPDGIMAEPGTKCGDGMVCSKGQCVDVQTAY",
+    "length": 593,
+    "review_status": "UniProtKB reviewed (Swiss-Prot)",
+    "features": [
+      {
+        "type": "Propeptide",
+        "description": "",
+        "start": 21,
+        "end": 191,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Chain",
+        "description": "Zinc metalloproteinase-disintegrin-like atrase-B",
+        "start": 192,
+        "end": 593,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Peptidase M12B",
+        "start": 205,
+        "end": 400,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Disintegrin",
+        "start": 408,
+        "end": 477,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Motif",
+        "description": "D/ECD-tripeptide",
+        "start": 455,
+        "end": 457,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Active site",
+        "description": "",
+        "start": 342,
+        "end": 342,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 208,
+        "end": 208,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 292,
+        "end": 292,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 341,
+        "end": 341,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 345,
+        "end": 345,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 351,
+        "end": 351,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 395,
+        "end": 395,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 398,
+        "end": 398,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 410,
+        "end": 410,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 413,
+        "end": 413,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 415,
+        "end": 415,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 417,
+        "end": 417,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 420,
+        "end": 420,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 423,
+        "end": 423,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 457,
+        "end": 457,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 458,
+        "end": 458,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 460,
+        "end": 460,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 472,
+        "end": 472,
+        "evidence": "UniProt entry annotation"
+      }
+    ],
+    "uniprot_url": "https://www.uniprot.org/uniprotkb/D6PXE8",
+    "family_annotation": "Belongs to the venom metalloproteinase (M12B) family. P-III subfamily. P-IIIa sub-subfamily"
+  },
+  {
+    "accession": "P82942",
+    "class": "P-III",
+    "source": "UniProt_P82942",
+    "note": "Kaouthiagin; verify sequence completeness and entry annotations",
+    "name": "Hemorrhagic metalloproteinase-disintegrin-like kaouthiagin",
+    "species": "Naja kaouthia",
+    "sequence": "TNTPEQDRYLQAEKYIEFYVIVDNRMYRYYNYDKPAIKIRVYEMINAVNTKFRPLKIHIALIGLEIWSNEDKFEVKPAASVTLKSFREWRQTVLLPRKRNDNAQLLTGINLNGTAVGIAYPGSLCTQRSVFVVQDYNRRMSLVASTMTHELGHNLGIHHDEASCICIPGPCIMLKKRTAPAFQFSSCSIRDYQEYLLRDRPQCILNKPLSTDIVSPAICGNYFVEEGEECDCGSPAACQSACCDAATCKFNGAGAECRAAKHDCDLPELCTGQSAECPTDSLQRNGHPCQNNQGYCYNGKCPTLTNQCIALLGPHFTVSPKGCFDLNMRGDDGSFCRMEDGTKIPCAAKDVKCGRLYCTEKNTMSCLIPPNPDGIMAEPGTKCGDGMVCSKGQCVDVQTAY",
+    "length": 401,
+    "review_status": "UniProtKB reviewed (Swiss-Prot)",
+    "features": [
+      {
+        "type": "Chain",
+        "description": "Hemorrhagic metalloproteinase-disintegrin-like kaouthiagin",
+        "start": 1,
+        "end": 401,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Peptidase M12B",
+        "start": 14,
+        "end": 208,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Disintegrin",
+        "start": 216,
+        "end": 285,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Motif",
+        "description": "D/ECD-tripeptide",
+        "start": 263,
+        "end": 265,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Active site",
+        "description": "",
+        "start": 150,
+        "end": 150,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 17,
+        "end": 17,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 101,
+        "end": 101,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 149,
+        "end": 149,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 153,
+        "end": 153,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 159,
+        "end": 159,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 203,
+        "end": 203,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 206,
+        "end": 206,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 218,
+        "end": 218,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 221,
+        "end": 221,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 223,
+        "end": 223,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 225,
+        "end": 225,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 228,
+        "end": 228,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 231,
+        "end": 231,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 265,
+        "end": 265,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 266,
+        "end": 266,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 268,
+        "end": 268,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 280,
+        "end": 280,
+        "evidence": "UniProt entry annotation"
+      }
+    ],
+    "uniprot_url": "https://www.uniprot.org/uniprotkb/P82942",
+    "family_annotation": "Belongs to the venom metalloproteinase (M12B) family. P-III subfamily. P-IIIa sub-subfamily"
+  },
+  {
+    "accession": "Q1PS45",
+    "class": "P-III",
+    "source": "Deinagkistrodon2025",
+    "note": "Reported P-III dataset; verify UniProt family annotation on download",
+    "name": "Zinc metalloproteinase-disintegrin-like agkihagin",
+    "species": "Deinagkistrodon acutus",
+    "sequence": "MIQVLLVTICLAAFPYQGSSIILESGNVNDYEVVYPRKVTALPEGAVQQKYEDAMQYEFKVNGEPVVLHLEKNKGLFSEDYSETHYSPDGREITTYPSVEDHCYYHGRIQNDADLTASISACNGLKGHFMLQGEMYLIEPLKLSDSEAHAVFKYENVEKEDEAPKMCGVTQNWKSYEPIKKASQSNLTPEQQRYLNAPKFVKLFLVADNIMYLKYGRSLTNVRTRMYDMANILNLIFRRMNIHVAVTDLEIWSDKDKIIVQPSADDTLKSFATWRESVLLKHKSHDNAQLLTGINFNGPTAGLAYLGGICDPMYSTAIVQDHNKIHHLVAIAMAHEMGHNLGIDHDKDTCTCAAKSCVMAGTLSCEASYLFSDCSRKEHRAFLIKNMPQCILKKPSKTDVVSPPVCGNYFVEMGEDCDCGSPATCRDPCCDAATCKLKQGAQCAEGLCCDQCRFKGAGTQCRAAMDECDMADLCTGQSADCTDRFQKNGQPCQNNNGYCYNGTCPTMIKQCTVFFGSNAAVSQDACFQFNLQGNNYGYCRKEQNTKIACEPQNVKCGRLYCTSPEKQNPCNIYYSPSNEDKGMVLPGTKCADGKACSNGQCVDVTTPY",
+    "length": 608,
+    "review_status": "UniProtKB reviewed (Swiss-Prot)",
+    "features": [
+      {
+        "type": "Propeptide",
+        "description": "",
+        "start": 21,
+        "end": 189,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Chain",
+        "description": "Zinc metalloproteinase-disintegrin-like agkihagin",
+        "start": 190,
+        "end": 608,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Peptidase M12B",
+        "start": 199,
+        "end": 395,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Domain",
+        "description": "Disintegrin",
+        "start": 403,
+        "end": 488,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Motif",
+        "description": "D/ECD-tripeptide",
+        "start": 467,
+        "end": 469,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Active site",
+        "description": "",
+        "start": 336,
+        "end": 336,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 335,
+        "end": 335,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 339,
+        "end": 339,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 345,
+        "end": 345,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 405,
+        "end": 405,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 408,
+        "end": 408,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 410,
+        "end": 410,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 412,
+        "end": 412,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 415,
+        "end": 415,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 418,
+        "end": 418,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 469,
+        "end": 469,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 470,
+        "end": 470,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 472,
+        "end": 472,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 483,
+        "end": 483,
+        "evidence": "UniProt entry annotation"
+      },
+      {
+        "type": "Binding site",
+        "description": "",
+        "start": 484,
+        "end": 484,
+        "evidence": "UniProt entry annotation"
+      }
+    ],
+    "uniprot_url": "https://www.uniprot.org/uniprotkb/Q1PS45",
+    "family_annotation": "Belongs to the venom metalloproteinase (M12B) family. P-III subfamily. P-IIIc sub-subfamily"
+  }
+]

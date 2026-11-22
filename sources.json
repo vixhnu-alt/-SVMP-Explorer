@@ -1,0 +1,22 @@
+{
+ "Olaoba2020":{"title":"Snake Venom Metalloproteinases (SVMPs): A structure-function update","url":"https://doi.org/10.1016/j.toxcx.2020.100052","role":"Canonical class architecture and motif context; user-uploaded"},
+ "Gutierrez2016":{"title":"Hemorrhage Caused by Snake Venom Metalloproteinases","url":"https://doi.org/10.3390/toxins8040093","role":"Domain classification and biological activity; user-uploaded"},
+ "KiniKoh2016":{"title":"Metalloproteases Affecting Blood Coagulation, Fibrinolysis and Platelet Aggregation from Snake Venoms","url":"https://doi.org/10.3390/toxins8100284","role":"Catalytic site, domain substructures, P-III complexes; user-uploaded"},
+ "Calvete2005":{"title":"Snake venom disintegrins: evolution of structure and function","url":"https://pubmed.ncbi.nlm.nih.gov/15922775/","role":"Disintegrin motif diversity"},
+ "Disintegrin2011":{"title":"Non-RGD-containing snake venom disintegrins, functional and structural relations","url":"https://pubmed.ncbi.nlm.nih.gov/21801741/","role":"MLD and KTS/RTS motif families"},
+ "Disintegrin2018":{"title":"Recombinant and Chimeric Disintegrins in Preclinical Research","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC6116119/","role":"Disintegrin motif variants"},
+ "Cloning2010":{"title":"Molecular cloning and characterization of cDNAs encoding metalloproteinases from snake venom glands","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC3293473/","role":"P-I, P-II, P-III transcripts and reported motif variation"},
+ "Deinagkistrodon2025":{"title":"Epitope-based antibody development against metalloproteinases and phospholipases A2 from Deinagkistrodon acutus venom","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC12063738/","role":"Published UniProt SVMP accession panel"},
+ "Evolution2013":{"title":"Differential Evolution and Neofunctionalization of SVMP Domains","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC3591658/","role":"Domain loss and evolutionary exceptions"},
+ "Disintegrin2023":{"title":"Snake venom disintegrins update: insights about new findings","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC10561651/","role":"Disulfide patterns and motif diversity"},
+ "UniProt_P20165":{"title":"UniProt P20165 trimerelysin-2","url":"https://www.uniprot.org/uniprotkb/P20165"},
+ "UniProt_O57413":{"title":"UniProt O57413","url":"https://www.uniprot.org/uniprotkb/O57413"},
+ "UniProt_P17349":{"title":"UniProt P17349","url":"https://www.uniprot.org/uniprotkb/P17349"},
+ "UniProt_Q7ZZS9":{"title":"UniProt Q7ZZS9","url":"https://www.uniprot.org/uniprotkb/Q7ZZS9"},
+ "UniProt_J9Z332":{"title":"UniProt J9Z332","url":"https://www.uniprot.org/uniprotkb/J9Z332"},
+ "UniProt_Q072L5":{"title":"UniProt Q072L5","url":"https://www.uniprot.org/uniprotkb/Q072L5"},
+ "UniProt_A0A0K2JNB8":{"title":"UniProt A0A0K2JNB8","url":"https://www.uniprot.org/uniprotkb/A0A0K2JNB8"},
+ "UniProt_J3S830":{"title":"UniProt J3S830","url":"https://www.uniprot.org/uniprotkb/J3S830"},
+ "UniProt_D6PXE8":{"title":"UniProt D6PXE8","url":"https://www.uniprot.org/uniprotkb/D6PXE8"},
+ "UniProt_P82942":{"title":"UniProt P82942","url":"https://www.uniprot.org/uniprotkb/P82942"}
+}

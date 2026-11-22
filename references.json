@@ -1,0 +1,17 @@
+[
+{"accession":"Q9IAY0","class":"P-I","source":"Deinagkistrodon2025","note":"Reported P-I dataset; verify UniProt family annotation on download"},
+{"accession":"Q9IAY1","class":"P-I","source":"Deinagkistrodon2025","note":"Reported P-I dataset; verify UniProt family annotation on download"},
+{"accession":"Q9IAY2","class":"P-I","source":"Deinagkistrodon2025","note":"Reported P-I dataset; verify UniProt family annotation on download"},
+{"accession":"Q9IAY3","class":"P-I","source":"Deinagkistrodon2025","note":"Reported P-I dataset; verify UniProt family annotation on download"},
+{"accession":"P20165","class":"P-I","source":"UniProt_P20165","note":"H2-proteinase; reviewed UniProt"},
+{"accession":"O57413","class":"P-II","source":"UniProt_O57413","note":"Metalloproteinase/disintegrin precursor; reviewed UniProt"},
+{"accession":"P17349","class":"P-II","source":"UniProt_P17349","note":"Metalloproteinase/disintegrin precursor; reviewed UniProt"},
+{"accession":"Q7ZZS9","class":"P-II","source":"UniProt_Q7ZZS9","note":"Metalloproteinase/disintegrin precursor; reviewed UniProt"},
+{"accession":"J9Z332","class":"P-II","source":"UniProt_J9Z332","note":"Metalloproteinase/disintegrin; verify entry annotations"},
+{"accession":"Q072L5","class":"P-II","source":"UniProt_Q072L5","note":"Metalloproteinase/disintegrin precursor; reviewed UniProt"},
+{"accession":"A0A0K2JNB8","class":"P-III","source":"UniProt_A0A0K2JNB8","note":"Batroxrhagin; reviewed UniProt"},
+{"accession":"J3S830","class":"P-III","source":"UniProt_J3S830","note":"Metalloproteinase-disintegrin-like; verify entry annotations"},
+{"accession":"D6PXE8","class":"P-III","source":"UniProt_D6PXE8","note":"Atrase-B; verify entry annotations"},
+{"accession":"P82942","class":"P-III","source":"UniProt_P82942","note":"Kaouthiagin; verify sequence completeness and entry annotations"},
+{"accession":"Q1PS45","class":"P-III","source":"Deinagkistrodon2025","note":"Reported P-III dataset; verify UniProt family annotation on download"}
+]
