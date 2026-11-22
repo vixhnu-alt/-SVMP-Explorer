@@ -1,4 +1,5 @@
 import json
+import csv
 from pathlib import Path
 import streamlit as st
 import pandas as pd
@@ -11,13 +12,27 @@ st.title('🧬 SVMP Explorer')
 st.caption('Literature-curated motif screening and reference-assisted P-I / P-II / P-III classification')
 st.warning('Research/education prototype. Short motifs do not confirm domains. Predictions are provisional and require independent annotation.')
 
-refs=load_references()
+@st.cache_data(ttl=3600,show_spinner=False)
+def current_refs():
+    return load_references()
+
+with st.sidebar:
+    st.subheader('Reference database')
+    if st.button('Download / refresh UniProt references', help='Requires internet access. Fetches actual FASTA sequences and annotated domains.'):
+        import subprocess,sys
+        with st.spinner('Downloading UniProt entries and annotations...'):
+            run=subprocess.run([sys.executable,str(Path(__file__).resolve().parent/'build_database.py')],capture_output=True,text=True,timeout=360)
+        st.code((run.stdout+'\n'+run.stderr)[-10000:])
+        current_refs.clear()
+        st.rerun()
+
+refs=current_refs()
 a,b,c=st.columns(3)
 a.metric('Downloaded reference proteins',len(refs))
 b.metric('Classes represented',len({r['class'] for r in refs}))
 c.metric('Motif patterns',sum(len(x['patterns']) for x in load_motifs().values()))
 if not refs:
-    st.error('Reference FASTA files are not yet downloaded. Open Command Prompt in this folder and run: python build_database.py. Motif analysis is available meanwhile.')
+    st.error('Reference FASTA files are not downloaded. Click Download / refresh UniProt references in the sidebar, or run python build_database.py locally. Classification is disabled until reference sequences are available.')
 
 with st.sidebar:
     st.header('Input settings')
@@ -97,6 +112,13 @@ if 'last' in st.session_state:
         sources=json.loads((Path(__file__).resolve().parent/'database'/'sources.json').read_text())
         st.dataframe(pd.DataFrame([{'ID':k,**v} for k,v in sources.items()]),use_container_width=True,hide_index=True)
         if refs:st.dataframe(pd.DataFrame([{'Accession':r['accession'],'Class':r['class'],'Species':r['species'],'Length':r['length'],'Name':r['name']} for r in refs]),hide_index=True)
+        st.write('**Literature evidence and accession catalogue (separate from downloaded references)**')
+        literature=Path(__file__).resolve().parent/'database'/'literature'
+        files=sorted(literature.rglob('*.csv'))
+        chosen=st.selectbox('Dataset',files,format_func=lambda f:str(f.relative_to(literature)))
+        st.dataframe(pd.read_csv(chosen),use_container_width=True,hide_index=True)
+        st.download_button('Download selected CSV',chosen.read_bytes(),file_name=chosen.name,mime='text/csv')
+        st.caption('Literature records are not automatically validated as reference sequences. See DATA_PROVENANCE.md.')
     output={'input_kind':data['kind'],'protein_sequence':seq,'motif_matches':motifs,
             'prediction':result['prediction'],'interpretation':result['reason'],
             'reference_hits':result['top_references']}
